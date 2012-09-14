@@ -55,6 +55,10 @@
                     </execution>
                 </executions>
             </plugin>
+<<<<<<< Updated upstream
+=======
+			<!--
+>>>>>>> Stashed changes
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-gpg-plugin</artifactId>
@@ -68,6 +72,10 @@
                     </execution>
                 </executions>
             </plugin>
+<<<<<<< Updated upstream
+=======
+			-->
+>>>>>>> Stashed changes
         </plugins>
     </build>
     <dependencies>
